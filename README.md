@@ -1,2 +1,2 @@
-# twitter-complaint-bot
+# Twitter Complaint Bot
 A Twitter bot.
